@@ -7,7 +7,7 @@
       {% if site.email %}
         <li class="email"><a href="mailto:{{site.email}}"><i class="fa fa-envelope-o"></i></a></li>
       {% else %}
-        <li class="email"><a href="mailto:example.adam@blog.com"><i class="fa fa-envelope-o" aria-hidden="true"></i></a></li>
+        <li class="email"><a href="mailto:admin@example.com"><i class="fa fa-envelope-o" aria-hidden="true"></i></a></li>
       {% endif %}
       <!--
       {% if site.phone %}
@@ -35,6 +35,11 @@
         <li class="facebook"><a href="https://facebook.com/{{site.facebook}}" target="_blank"><i class="fa fa-facebook"></i></a></li>
       {% else %}
         <li class="facebook"><a href="https://facebook.com/" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+      {% endif %}
+      {% if site.stackoverflow %}
+        <li class="stackoverflow"><a href="https://stackoverflow.com/users/{{site.stackoverflow}}"><i class="fa fa-stack-overflow"></i></a></li>
+      {% else %}
+        <li class="stackoverflow"><a href="https://stackoverflow.com/"><i class="fa fa-stack-overflow" aria-hidden="true"></i></a></li>
       {% endif %}
     </ul>
   </div>
