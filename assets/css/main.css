@@ -411,7 +411,7 @@ hr {
  * 2. Correct the odd `em` font sizing in all browsers.
  */
 pre {
-  font-family: monospace, monospace;
+  font-family: Consolas, sans-serif;
   /* 1 */
   font-size: 1em;
   /* 2 */
@@ -466,7 +466,7 @@ strong {
 code,
 kbd,
 samp {
-  font-family: monospace, monospace;
+  font-family: Consolas, sans-serif;
   /* 1 */
   font-size: 1em;
   /* 2 */
@@ -778,7 +778,7 @@ html {
 }
 
 body {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Tahoma', sans-serif;
   color: #3e3e40;
   margin: 0;
   background-color: #fff;
@@ -788,7 +788,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Tahoma', sans-serif;
   color: #311e3e;
   font-weight: 400;
 }
@@ -890,7 +890,7 @@ pre code {
 
 /* = = = = = = = = = = Header Styles = = = = = = = = = = */
 .main-header {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Tahoma', sans-serif;
   padding: 15px 0;
   background-color: #fff;
   -webkit-box-shadow: 0px -5px 15px rgba(0, 0, 0, 0.3);
@@ -1119,7 +1119,7 @@ pre code {
 }
 
 .post-card .post-card-body .post-card-title {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Tahoma', sans-serif;
   font-weight: 700;
   text-transform: uppercase;
   font-size: 18px;
@@ -1213,7 +1213,7 @@ pre code {
 }
 
 .header-page h1 {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Tahoma', sans-serif;
   font-weight: 400;
   font-size: 36px;
   text-align: center;
@@ -1273,7 +1273,7 @@ pre code {
 }
 
 .recent-box .recent-title {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Tahoma', sans-serif;
   font-weight: 400;
   color: #311e3e;
   text-align: center;
@@ -1537,7 +1537,7 @@ pre code {
 
 .blog-tags h1 {
   text-align: center;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Tahoma', sans-serif;
   font-weight: 400;
   font-size: 36px;
   text-align: center;
