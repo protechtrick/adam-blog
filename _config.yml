@@ -22,6 +22,7 @@ twitter: '@tienminhvydev' # Add your Twitter handle
 facebook: tienminhvydev # Add your Facebook handle
 instagram: # Add your Instagram handle
 pinterest: # Add your Pinterest handle
+stackoverflow: 10245896 # Add your Stack Overflow handle
 
 # Newsletter
 mailchimp: # Add your MailChimp form identifier.
@@ -31,6 +32,10 @@ discus_identifier: mr-brown # Add your discus identifier
 
 # Tracker
 analytics: # Google Analytics
+
+# Facebook
+facebook-id-app: 639426976430493 # add your Facebook ID App
+facebook-id-admin: 100013106588444 # add your Facebook ID Admin
 
 # Paginate
 paginate: 6
