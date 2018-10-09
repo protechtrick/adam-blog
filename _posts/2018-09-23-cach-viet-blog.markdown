@@ -4,6 +4,8 @@ title: "Cách viết Blog!"
 date: 2018-09-23 6:24:00 +0700
 description: Đây là phần tiêu đề. # Add post description (optional)
 img: cach-viet-blog.jpg # Add image post (optional)
+tags: [Blog, Demo]
+author: Tien Minh Vy # Add name author (optional)
 ---
 
 Để thêm một bài viết mới, hãy vào thư mục lưu bài viết và nhập theo cú pháp `YYYY-MM-DD-ten-bai-viet.markdown`.
