@@ -14,7 +14,7 @@ author: Tien Minh Vy
 IDM là một trong các phần mềm hỗ trợ download một cách tốt nhất, nhanh nhất mà mình từng gặp. 
 Và hầu như là đa số người dùng thường thích sử dụng IDM hơn là những phần mềm hỗ trợ download khác, và trong đó có mình :v
 
-#Sơ lược về IDM
+# Sơ lược về IDM
 
 Internet Download Manager (Viết tắt là IDM) là một phần mềm hỗ trợ download rất đáng sử dụng. 
 Thông thường thì bạn tải một thứ gì đó trên Internet thì sẽ bị giới hạn băng thông khá chát. Nhưng với IDM thì bạn không còn lo nữa.
@@ -22,14 +22,14 @@ Thông thường thì bạn tải một thứ gì đó trên Internet thì sẽ 
 Tuy rằng phần mềm này có giá khá đắt, nếu bạn mua bản quyền 1 năm thì vào khoảng $11.95 cho một máy 
 và khoảng __$24.95__ cho bản toàn thời gian, giá khá chát cho người dùng Internet tại Việt Nam. Khi mà thu nhập ở đây chỉ khoản $5 một ngày.
 
-##Các đánh giá của bên thứ ba
+## Các đánh giá của bên thứ ba
 
 Bạn có thể xem các đánh giá ở phía dưới, những đánh giá đó từ những trang Web rất uy tín. 
 Ngoài ra, người dùng cũng phản ứng rất tích cực về phần mềm này.
 
 ![IDM Awarded](https://protechtrick.github.io/blog/assets/img/idm-awared-min.PNG)
 
-#Hướng dẫn tải và cài đặt Internet Download Manager
+# Hướng dẫn tải và cài đặt Internet Download Manager
 
 Để tải phần mềm này và "thuốc", bạn nhấn vào Link Download bên dưới:
 
@@ -45,10 +45,10 @@ Sau khi tắt trình duyệt Virus đi thì bạn giải nén ra và chạy nó.
 
 Để kích hoạt phần mềm, bạn nhập tên của bạn vào ô Tên (Không dấu) rồi nhấn kích hoạt, nó sẽ tự động kích hoạt cho bạn, và tất nhiên, bạn sẽ không lo bị lỗi Fake Serial Key nữa đâu nhé!
 
-#Một số hình ảnh về Tool này:
+# Một số hình ảnh về Tool này:
 
 ![IDM Pic 1](https://protechtrick.github.io/blog/assets/img/tool1-min.PNG)
 
 ![IDM Pic 2](https://protechtrick.github.io/blog/assets/img/tool2-min.PNG)
 
-###Cám ơn tác giả ptk911 đã lập trình ứng dụng hỗ trợ kích hoạt IDM
+### Cám ơn tác giả ptk911 đã lập trình ứng dụng hỗ trợ kích hoạt IDM
