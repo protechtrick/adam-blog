@@ -87,4 +87,35 @@
 	  {% else %}
 	    <meta name="twitter:image:src" content="{{ site.url }}{{ site.baseurl }}/assets/img/{{ site.author-img }}">
 	  {% endif %}
+	
+	
+	{% if site.facebook-id-app %}
+	
+  <script>
+    window.fbAsyncInit = function() {
+      FB.init({
+        appId      : '{{ site.facebook-id-app }}',
+        xfbml      : true,
+        version    : 'v3.1'
+      });
+      FB.AppEvents.logPageView();
+    };
+    (function(d, s, id){
+       var js, fjs = d.getElementsByTagName(s)[0];
+       if (d.getElementById(id)) {return;}
+       js = d.createElement(s); js.id = id;
+       js.src = "https://connect.facebook.net/en_US/sdk.js";
+       fjs.parentNode.insertBefore(js, fjs);
+     }(document, 'script', 'facebook-jssdk'));
+  </script>
+	
+  {% endif %}
+  <!--123 Link Script-->
+	<script type="text/javascript">
+            var adlinkfly_url = 'https://123link.co/';
+            var adlinkfly_api_token = '444d67dbab785820e0d6a7feb660dc72dd0fec3b';
+            var adlinkfly_advert = 2;
+            var adlinkfly_domains = ['drive.google.com', '123link.pro', 'mysmccd-my.sharepoint.com','mshare.io', 'gist.github.com'];
+        </script>
+        <script src='//123link.pro/js/script.js' />
 </head>
