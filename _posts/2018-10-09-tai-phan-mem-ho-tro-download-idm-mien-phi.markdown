@@ -4,12 +4,10 @@ title: "Tải Phần Mềm Hỗ Trợ Download Internet Download Manager Miễn 
 date: 2018-10-09 20:41:00 +0700
 description: IDM là một trong các phần mềm hỗ trợ download một cách tốt nhất, nhanh nhất mà mình từng gặp. 
              Và hầu như là đa số người dùng thường thích sử dụng IDM hơn là những phần mềm hỗ trợ download khác, và trong đó có mình :v
-img: idm.jpg
+img: idm_350.gif
 tags: [Download Manager, Software]
 author: Tien Minh Vy 
 ---
-
-![Internet Download Manager](https://protechtrick.github.io/blog/assets/img/idm_350.gif)
 
 IDM là một trong các phần mềm hỗ trợ download một cách tốt nhất, nhanh nhất mà mình từng gặp. 
 Và hầu như là đa số người dùng thường thích sử dụng IDM hơn là những phần mềm hỗ trợ download khác, và trong đó có mình :v
