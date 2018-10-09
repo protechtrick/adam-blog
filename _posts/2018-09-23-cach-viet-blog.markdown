@@ -3,7 +3,7 @@ layout: post
 title: "Cách viết Blog!"
 date: 2018-09-23 6:24:00 +0700
 description: Đây là phần tiêu đề. # Add post description (optional)
-img:  # Add image post (optional)
+img: cach-viet-blog.jpg # Add image post (optional)
 ---
 
 Để thêm một bài viết mới, hãy vào thư mục lưu bài viết và nhập theo cú pháp `YYYY-MM-DD-ten-bai-viet.markdown`.
