@@ -42,7 +42,7 @@
 	  {% endif %}
 	  {% if page.date %}
 	    <meta content="{{ page.date | date_to_xmlschema }}" property="article:published_time">
-	    <meta content="{{ site.url }}/about/" property="article:author">
+	    <meta content="{{ site.url }}{{ site.baseurl }}/about/" property="article:author">
 	  {% endif %}
 	  {% if page.img %}
 	    <meta content="{{ site.url }}{{ site.baseurl }}/assets/img/{{ page.img }}" property="og:image">
@@ -76,7 +76,7 @@
 	    <meta name="twitter:title" content="{{ site.title }}">
 	  {% endif %}
 	  {% if page.url %}
-	    <meta name="twitter:url" content="{{ site.url }}{{ page.url }}">
+	    <meta name="twitter:url" content="{{ site.url }}{{ site.baseurl }}{{ page.url }}">
 	  {% endif %}
 	  {% if page.description %}
 	    <meta name="twitter:description" content="{{ page.description }}">
