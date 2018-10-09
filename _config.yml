@@ -28,7 +28,7 @@ stackoverflow: 10245896 # Add your Stack Overflow handle
 mailchimp: # Add your MailChimp form identifier.
 
 # Disqus
-discus_identifier: mr-brown # Add your discus identifier
+discus_identifier:  # Add your discus identifier
 
 # Tracker
 analytics: # Google Analytics
