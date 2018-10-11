@@ -1761,3 +1761,9 @@ pre code {
     margin: 0 0 15px;
   }
 }
+
+.dmca-badge {
+  position: fixed;
+  top:75%;
+  left: 5px;
+}
