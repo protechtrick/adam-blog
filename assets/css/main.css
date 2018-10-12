@@ -1762,8 +1762,13 @@ pre code {
   }
 }
 
-.dmca-badge {
-  position: fixed;
-  top:75%;
-  left: 5px;
+.dmca-bagde {
+  position: relative;
+  bottom: 20px;
+  right: 0px;
+  width: 100%;
+  color: #AAAAAA;
+  z-index: 4;
+  text-align: right;
+  margin-top: 50px;
 }
