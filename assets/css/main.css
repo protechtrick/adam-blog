@@ -1761,19 +1761,3 @@ pre code {
     margin: 0 0 15px;
   }
 }
-
-.footer-dmca {
-  position: relative;
-  bottom: 20px;
-  right: 0px;
-  width: 100%;
-  color: #AAAAAA;
-  z-index: 4;
-  text-align: right;
-  margin-top: 50px;
-}
-
-.dmca-bande {
-    position: absolute;
-    right: 10px;
-}
