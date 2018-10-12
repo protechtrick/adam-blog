@@ -1772,3 +1772,8 @@ pre code {
   text-align: right;
   margin-top: 50px;
 }
+
+.dmca-bande a {
+    position: absolute;
+    right: 10px;
+}
