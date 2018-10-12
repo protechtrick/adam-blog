@@ -1762,7 +1762,7 @@ pre code {
   }
 }
 
-.dmca-bagde {
+.footer-dmca {
   position: relative;
   bottom: 20px;
   right: 0px;
@@ -1773,7 +1773,7 @@ pre code {
   margin-top: 50px;
 }
 
-.dmca-bande a {
+.dmca-bande {
     position: absolute;
     right: 10px;
 }
